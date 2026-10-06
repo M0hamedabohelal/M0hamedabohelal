@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="max-width: 800px; border-radius: 15px;" alt="Coding Animation" />
-</div>
-
 <h1 align="center">
   Hi there, I'm Mohamed Abohelal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
@@ -15,7 +11,7 @@
 <br/>
 
 <a href="https://mohamed-abohelal.engineer">
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="300" alt="Developer GIF" />
+  <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400" alt="Developer GIF" />
 </a>
 
 <h2>👨‍💻 About Me</h2>
