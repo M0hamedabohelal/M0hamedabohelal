@@ -10,10 +10,6 @@
 
 <br/>
 
-<a href="https://mohamed-abohelal.engineer">
-  <img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400" alt="Developer GIF" />
-</a>
-
 <h2>👨‍💻 About Me</h2>
 
 <ul>
@@ -24,7 +20,6 @@
   <li>💬 Ask me about <b>React, Node.js, Nest.js, or Modern Frontend Architectures</b>.</li>
 </ul>
 
-<br clear="both">
 <br/>
 
 <details open>
